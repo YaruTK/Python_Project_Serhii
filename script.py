@@ -1,4 +1,3 @@
-import vtk
 import vtkmodules.vtkInteractionStyle
 import vtkmodules.vtkRenderingOpenGL2
 import vtkmodules.vtkCommonColor
